@@ -1,7 +1,13 @@
 # Laporan Praktikum Basis Data - Pertemuan 2
 **Nama:** Abim Faturohman  
+
 **NIM:** 25430107  
-**Kelas:** D    
+
+**Kelas:** D   
+
+**Tanggal** : 6 oktober 2026
+
+**Dosen Pengampu** : Dedi Irawan, S.Kom., M.Kom. 
 
 
 ## 1. Tujuan Praktikum

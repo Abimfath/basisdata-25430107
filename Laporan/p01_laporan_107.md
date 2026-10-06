@@ -5,6 +5,10 @@ NPM     :    25430107
 
 Kelas   :  D
 
+Tanggal : 6 oktober 2026
+
+Dosen Pengampu : Dedi Irawan, S.Kom., M.Kom.
+
 
 ## 1. Tujuan Praktikum
 1. Menjalankan dan menghentikan layanan MariaDB melalui XAMPP Control Panel serta membaca status dan port-nya[cite: 29].
