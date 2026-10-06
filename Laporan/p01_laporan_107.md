@@ -20,6 +20,7 @@ DBMS (Database Management System) adalah perangkat lunak yang mengelola penyimpa
 Server MariaDB berhasil diakses melalui CLI dan mode ketat SQL terkonfigurasi.
 
 ![Verifikasi Versi dan SQL Mode](img/p01_versi_sql.png)
+![Verifikasi Versi dan SQL Mode](img/p01_mode_sql.png)
 
 ### 3.2 Tampilan Hak Akses Akun Kerja
 Akun kerja `AbimFaturohman_107` berhasil dibuat dan hanya memiliki akses ke basis data miliknya (`kopma_107`)[cite: 35].
