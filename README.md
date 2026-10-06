@@ -5,7 +5,7 @@ Repositori ini dibuat untuk menyimpan seluruh berkas tugas, skrip SQL, dokumen a
 ## Identitas Praktikan
 - **Nama** : Abim Faturohman
 - **NIM** : 25430107
-- **Kelas** : [Isi Kelas Kamu, contoh: 3A / TI-3]
+- **Kelas** : D
 - **Akun Kerja Utama** : AbimFaturohman_107
 
 ---

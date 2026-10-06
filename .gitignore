@@ -1,18 +1,3 @@
-
-# Berkas Kredensial dan Sensitif
 *.env
-kredensial*.txt
-password*.txt
-*.pem
-*.key
-
-# Berkas Konfigurasi IDE / Editor
-.vscode/
-.idea/
-*.swp
-
-# Berkas Log & Temp
+.env
 *.log
-*.tmp
-.DS_Store
-Thumbs.db
