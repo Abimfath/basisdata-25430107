@@ -33,7 +33,7 @@ Perbaikan pernyataan kebutuhan kabur menjadi dapat diuji:
 ## 6. Tugas Mandiri: Milestone Proyek 2
 Telah disusun berkas dokumen kebutuhan data proyek perpustakaan pada `p02_kebutuhan_data_107.md` dengan parameter $P = 8$.
 
-![Matriks CRUD dan Kamus Data](Img/p02_github_preview.png)
+![Matriks CRUD dan Kamus Data](img/p02_github_preview.png)
 
 ## 7. Pembahasan dan Kendala
 * **Kendala:** Membedakan antara proses bisnis dengan entitas kandidat.
