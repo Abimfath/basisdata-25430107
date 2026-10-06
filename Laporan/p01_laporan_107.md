@@ -77,7 +77,7 @@ Asisten AI digunakan sebesar **±25%** dari total pengerjaan modul ini. AI diman
 
 ## 10. Bukti Git
 * **Tautan Repositori:** `https://github.com/Abimfath/basisdata-25430107`[cite: 24]
-* **Hash Commit Pertama:** `[Isi Kode Hash Commit Kamu dari terminal]`[cite: 24]
+* **Hash Commit Pertama:** `d8d20e5 (HEAD -> main, origin/main) p01: inisialisasi repositori dan skrip lingkungan`[cite: 24]
 * **Pesan Commit:** `p01: inisialisasi repositori dan skrip lingkungan`[cite: 37]
 
 ![Bukti Git Push Pertama](img/p01_git_push.png)
