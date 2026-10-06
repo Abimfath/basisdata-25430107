@@ -47,4 +47,4 @@ Penggunaan AI (Gemini) dimanfaatkan sebesar **±25%** untuk membantu menyusun ke
 
 ## 10. Bukti Git
 * **Tautan Repositori:** `https://github.com/Abimfath/basisdata-25430107`
-* **Hash Commit:** `[Isi Hash Commit Git Anda]`
+* **Hash Commit:** `9c96816 (HEAD -> main, origin/main) p02: menyelesaikan dokumen kebutuhan data proyek dan laporan modul 2
