@@ -80,8 +80,8 @@ Model konseptual ERD berhasil dirancang menggunakan notasi Crow's Foot untuk kas
 Asisten AI (Gemini) digunakan sebesar **±25%** dari total pekerjaan modul ini. AI dimanfaatkan khusus untuk membantu penyusunan draf kerangka laporan Markdown, memberikan masukan analisis penelusuran jalur KI pada ERD, dan memverifikasi penalaran Titik Analisis. Seluruh proses pembuatan diagram di draw.io, penentuan atribut proyek, dan pengambilan screenshot beridentitas dilakukan secara mandiri oleh praktikan.
 
 ## 10. Bukti Git
-* **Tautan Repositori:** `https://github.com/[username_github_anda]/basisdata-107`
-* **Hash Commit Pertemuan 3:** `[Salin Hash Commit Anda dari terminal]`
+* **Tautan Repositori:** `https://github.com/Abimfath/basisdata-25430107`
+* **Hash Commit Pertemuan 3:** `[5d61193]`
 * **Pesan Commit:** `p03: pemodelan erd kopma dan proyek perpustakaan`
 
 ## Checklist
