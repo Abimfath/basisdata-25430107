@@ -197,11 +197,11 @@ Asisten AI (Gemini) digunakan sekitar 25% sebagai mitra diskusi (*thought partne
 
 | Parameter | Bukti Riwayat Eksekusi |
 |---|---|
-| Nama Repositori | `basisdata-107` *(sesuaikan dengan folder riil Anda)* |
-| Tautan Repositori | `https://github.com/[username_github_anda]/basisdata-107` |
+| Nama Repositori | `basisdata-107`  |
+| Tautan Repositori | `https://github.com/Abimfath/basisdata-25430107` |
 | Pesan Commit 1 | `p04: normalisasi kopma dan analisis` |
 | Pesan Commit 2 | `p04: menyelesaikan milestone 4 normalisasi proyek perpus` |
-| Hash Commit | `[Salin Hash Commit Terakhir Anda]` |
+| Hash Commit | `[2268b94 ]` |
 
 ## Checklist Umum Laporan
 
